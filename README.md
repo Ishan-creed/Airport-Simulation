@@ -10,17 +10,16 @@ This project is a simulation of the passenger traffic and airline schedule at Ne
 - Takeoff and landing time display for each airline
 
 ## Technologies Used
-- Front-end: HTML, CSS, JavaScript
-- Back-end: Node.js, Express.js
-- Database: MongoDB
+- SimPy: A process-based discrete-event simulation framework
+- Tkinter: A Python GUI toolkit
+- Python: A high-level programming language
 
 ## How to Use
 1. Clone the repository on your local machine
 2. Navigate to the project directory using the terminal
-3. Install the dependencies using the command `npm install`
-4. Start the server using the command `npm start`
-5. Open your web browser and go to `http://localhost:3000/` to view the application
+3. Install the dependencies using the command `pip install -r requirements.txt`
+4. Run the simulation using the command `python main.py`
+5. The GUI will open, and you can interact with the simulation through it.
 
 ## Credits
-This project was created by ###Harshita Chandok, ###Ishan Verma and ###Shweta Ranjan as a part of ###Data Simulation Project### for Jaypee University Of information technology.
-
+This project was created by Harshita Chandok, Ishan Verma and Shweta Ranjan as a part of [Data Simulation Project] for [JUIT SOLAN]. 
