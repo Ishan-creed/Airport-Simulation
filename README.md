@@ -1,0 +1,2 @@
+# Airport Simulation
+ Initially we have a registering system and log in system for new and existing users. Our project New Delhi airport simulation features passengers arrivals and their ticket booking on different domestic and international routes. Accordingly, it plots passenger traffic against different routes. Furthermore we are featuring different airlines on different domestic and international routes with their take off and landing time. It also plots the airline’s takeoff and landing times.
